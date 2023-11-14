@@ -1,3 +1,5 @@
+# User Stories
+
 As a user, I want to be able to use the website on desktop and it run smoothly
 
 As a user, I want to be able to navigate the website seamlessly without having to look/try to hard to find what I have in mind
