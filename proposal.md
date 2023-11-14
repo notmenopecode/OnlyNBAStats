@@ -9,3 +9,14 @@ As a user, I would like to access the page quickly. In other words, faster loadi
 As a user, it's important that the mobile version looks and feels just as clean as the desktop version, if not better!
 
 As a user, it's important that when I click on something it shows me exactly what I clicked on. In other words, nothing irrelevant.
+
+
+# API URL
+
+https://free-nba.p.rapidapi.com/players?page=0&per_page=25
+
+
+# API Key
+
+b8d6935be0mshc4ec35d8992fb8bp1fa133jsne31b3df61eac
+
