@@ -15,8 +15,3 @@ As a user, it's important that when I click on something it shows me exactly wha
 
 https://free-nba.p.rapidapi.com/players?page=0&per_page=25
 
-
-# API Key
-
-b8d6935be0mshc4ec35d8992fb8bp1fa133jsne31b3df61eac
-
